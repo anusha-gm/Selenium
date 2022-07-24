@@ -1,0 +1,21 @@
+Tesing-Frame-Using-JAVA-And-SELENIUM:
+-------------------------------------------------
+Make sure you already have installed all the modules used in this testing process like,
+Download:1-JAVA
+         2-Eclipse
+         3-Selenium(google drive,Internet Explorer,Firefox)
+After installing all the modules, Open eclipse select the workspace and then create new Java project->new package->new class.
+By right clicking on your project select Build path->Configure Build path->Libraries->classpath->AddExternalJAR's, add all the downloaded JAR files and click on add all.
+In Program using System.setProperty("SELECT THE PATH OF WEBDRIVER");
+Keywords:
+	   * Frame by using index value(0-n)->1-tagName
+                                          2-switchTo()
+       * Frame by using name or id->1-tagName
+                                    2-switchTo()  
+       * Frame by using WebElement->1-tagName
+                                    2-switchTo() 
+                                    3-id
+                                    4-alert()
+                                    5-accept()
+                                    6-getText()
+                                    7-getTitle()

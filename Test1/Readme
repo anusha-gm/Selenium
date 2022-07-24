@@ -1,0 +1,10 @@
+Tesing-Gmail-Login-page-Using-JAVA-And-SELENIUM:
+-------------------------------------------------
+Make sure you already have installed all the modules used in this testing process like,
+Download:1-JAVA
+         2-Eclipse
+         3-Selenium(google drive,Internet Explorer,Firefox)
+After installing all the modules, Open eclipse select the workspace and then create new Java project->new package->new class.
+By right clicking on your project select Build path->Configure Build path->Libraries->classpath->AddExternalJAR's, add all the downloaded JAR files and click on add all.
+In Program using System.setProperty("SELECT THE PATH OF WEBDRIVER");
+Keywords:1-Id
